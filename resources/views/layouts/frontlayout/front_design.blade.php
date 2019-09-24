@@ -11,26 +11,19 @@
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-config" content="{{asset('images/icon/browserconfig.xml')}}">
         <meta name="theme-color" content="#ffffff">
-
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/bootstrap.min.css')}}">
-
         <!-- FontAwesome CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/font-awesome.min.css')}}">
-
         <!-- ElegantFonts CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/elegant-fonts.css')}}">
-
         <!-- themify-icons CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/themify-icons.css')}}">
-
         <!-- Swiper CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/swiper.min.css')}}">
-
         <!-- Styles -->
         <link rel="stylesheet" href="{{asset('css/front_end/style.css')}}">
     </head>
