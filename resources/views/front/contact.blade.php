@@ -1,4 +1,4 @@
-@extends('layouts.front.contact')
+@extends('layouts.frontlayout.front_design')
 @section('content')
     <div class="page-header">
         <div class="container">
@@ -15,7 +15,8 @@
                 <div class="col-12 col-lg-5">
                     <div class="entry-content">
                         <h2>Get In touch with us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris. Lorem ipsum dolor sit amet, conse ctetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. Integer accu msan sodales odio, id tempus velit ullamc.</p>
+                        <p>We are always open to suggestions and ideas feel free to talk to us if you have any ideas that would help us make our community better.<br>
+                        You can visit us in our office, give us a call or better still leave us a note by filling the form bellow</p>
                         <ul class="contact-social d-flex flex-wrap align-items-center">
                             <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -32,10 +33,10 @@
                     </div>
                 </div><!-- .col -->
                 <div class="col-12 col-lg-7">
-                    <form class="contact-form">
-                        <input type="text" placeholder="Name">
-                        <input type="email" placeholder="Email">
-                        <textarea rows="15" cols="6" placeholder="Messages"></textarea>
+                    <form class="contact-form" method="post" action="{{url('contact')}}">@csrf
+                        <input type="text" placeholder="Name" required>
+                        <input type="email" placeholder="Email" required>
+                        <textarea rows="15" cols="6" placeholder="Messages" required></textarea>
                         <span>
                             <input class="btn gradient-bg" type="submit" value="Contact us">
                         </span>
