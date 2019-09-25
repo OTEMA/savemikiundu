@@ -32,11 +32,11 @@
                     <nav class="site-navigation d-flex justify-content-end align-items-center">
                         <ul class="d-flex flex-column flex-lg-row justify-content-lg-end align-content-center">
                             <li class="current-menu-item"><a href="{{url('/')}}">Home</a></li>
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="causes.html">Causes</a></li>
-                            <li><a href="portfolio.html">Gallery</a></li>
-                            <li><a href="news.html">News</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{url('about')}}">About us</a></li>
+                            <li><a href="{{url('what_we_do')}}">Causes</a></li>
+                            <li><a href="{{url('gallery')}}">Gallery</a></li>
+                            <li><a href="{{url('news')}}">News</a></li>
+                            <li><a href="{{('contact')}}">Contact</a></li>
                             
                         </ul>
                     </nav><!-- .site-navigation -->

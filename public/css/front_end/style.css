@@ -1264,7 +1264,7 @@ ul.tabs-nav .tab-nav.active {
 
 .help-us {
     padding: 70px 0 96px;
-    background: #ff3700;
+    background: #32CD32;
 }
 
 .help-us h2 {
@@ -1913,7 +1913,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .contact-page-wrap .entry-content ul.contact-social li a {
-    color: #ff3700;
+    color: #32CD32;
 }
 
 .contact-page-wrap .entry-content ul.contact-info {
@@ -1989,7 +1989,7 @@ ul.tabs-nav .tab-nav.active {
 # Contact Page
 --------------------------------------------------------------*/
 .elements-page .page-header {
-    background: url(images/elements-bg.jpg) no-repeat center;
+    background: url(../../images/front_end/elements-bg.jpg) no-repeat center;
 }
 
 /*--------------------------------------------------------------
@@ -2000,7 +2000,7 @@ ul.tabs-nav .tab-nav.active {
     padding: 96px 0 90px;
     font-weight: 500;
     color: #929191;
-    background: url("images/foot-bg.jpg") no-repeat center;
+    background: url("../../images/front_end/foot-bg.jpg") no-repeat center;
     background-size: cover;
     z-index: 99;
 }
