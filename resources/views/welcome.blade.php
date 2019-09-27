@@ -155,8 +155,8 @@
                     </header>
 
                     <div class="entry-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. </p>
-                        <a href="" class="btn">Join us</a>
+                        <p>We would like your support in transforming our community. Your support will get us a long way into making A better Mikiundu and the world as a whole </p>
+                        <a href="{{url('/contact')}}" class="btn">Join us</a>
                     </div>
                 </div>
             </div>
@@ -173,7 +173,7 @@
                     </header>
 
                     <div class="entry-content">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. </p>
+                        <p>You can also support our transformation course by Donating to our course. You can donate the necessary stuff required to reach our goal, money or your skill in training or members etc </p>
                         <a href="" class="btn">Donate now</a>
                     </div>
                 </div>
@@ -195,7 +195,10 @@
                     </header><!-- .entry-header -->
 
                     <div class="entry-content mt-5">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestibulum mauris quis aliquam. Integer accumsan sodales odio, id tempus velit ullamcorper id. Quisque at erat eu libero consequat tempus. Quisque molestie convallis tempus. Ut semper purus metus, a euismod sapien sodales ac. Duis viverra eleifend fermentum.</p>
+                        <p>We are a community based organization established by the locals of mikiundu area with a vision of putting resources and skills together to better our community and beyond.<br>
+                            <strong><u>Our Mission</u></strong> is to help eradicate hunger through the promotion of agricultural activities within and around our region, Eliminate poverty through provision of empowerment to the youth, elderly and other marginalized groups, 
+                            Ensure an affordable health program by partnering with health service providers and the government...<br>
+                            <strong><u>Our Vision</u></strong>Having a sustainable clean environment that can empower the society</p>
                     </div><!-- .entry-content -->
 
                     <div class="entry-footer mt-5">
@@ -220,7 +223,6 @@
                     <div class="section-heading">
                         <h2 class="entry-title">Upcoming Events</h2>
                     </div><!-- .section-heading -->
-
                     <div class="event-wrap d-flex flex-wrap justify-content-between">
                         <figure class="m-0">
                             <img src="{{asset('images/front_end/event-1.jpg')}}" alt="">
@@ -228,75 +230,19 @@
 
                         <div class="event-content-wrap">
                             <header class="entry-header d-flex flex-wrap align-items-center">
-                                <h3 class="entry-title w-100 m-0"><a href="#">Fundraiser for Kids</a></h3>
+                                <h3 class="entry-title w-100 m-0"><a href="#">No event yet</a></h3>
 
                                 <div class="posted-date">
-                                    <a href="#">Aug 25, 2018 </a>
+                                    <a href="#"> ---</a>
                                 </div><!-- .posted-date -->
 
                                 <div class="cats-links">
-                                    <a href="#">Ball Room New York</a>
+                                    <a href="#">---</a>
                                 </div><!-- .cats-links -->
                             </header><!-- .entry-header -->
 
                             <div class="entry-content">
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
-                            </div><!-- .entry-content -->
-
-                            <div class="entry-footer">
-                                <a href="#">Read More</a>
-                            </div><!-- .entry-footer -->
-                        </div><!-- .event-content-wrap -->
-                    </div><!-- .event-wrap -->
-
-                    <div class="event-wrap d-flex flex-wrap justify-content-between">
-                        <figure class="m-0">
-                            <img src="{{asset('images/front_end/event-2.jpg')}}" alt="">
-                        </figure>
-
-                        <div class="event-content-wrap">
-                            <header class="entry-header d-flex flex-wrap align-items-center">
-                                <h3 class="entry-title w-100 m-0"><a href="#">Bring water to the childrens</a></h3>
-
-                                <div class="posted-date">
-                                    <a href="#">Aug 25, 2018 </a>
-                                </div><!-- .posted-date -->
-
-                                <div class="cats-links">
-                                    <a href="#">Ball Room New York</a>
-                                </div><!-- .cats-links -->
-                            </header><!-- .entry-header -->
-
-                            <div class="entry-content">
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
-                            </div><!-- .entry-content -->
-
-                            <div class="entry-footer">
-                                <a href="#">Read More</a>
-                            </div><!-- .entry-footer -->
-                        </div><!-- .event-content-wrap -->
-                    </div><!-- .event-wrap -->
-
-                    <div class="event-wrap d-flex flex-wrap justify-content-between">
-                        <figure class="m-0">
-                            <img src="{{asset('images/front_end/event-3.jpg')}}" alt="">
-                        </figure>
-
-                        <div class="event-content-wrap">
-                            <header class="entry-header d-flex flex-wrap align-items-center">
-                                <h3 class="entry-title w-100 m-0"><a href="#">Bring water to the childrens</a></h3>
-
-                                <div class="posted-date">
-                                    <a href="#">Aug 25, 2018 </a>
-                                </div><!-- .posted-date -->
-
-                                <div class="cats-links">
-                                    <a href="#">Ball Room New York</a>
-                                </div><!-- .cats-links -->
-                            </header><!-- .entry-header -->
-
-                            <div class="entry-content">
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                <p class="m-0">---</p>
                             </div><!-- .entry-content -->
 
                             <div class="entry-footer">
@@ -315,24 +261,24 @@
 
                     <div class="cause-wrap d-flex flex-wrap justify-content-between">
                         <figure class="m-0">
-                            <img src="{{asset('images/front_end/featured-causes.jpg')}}" alt="">
+                            <img src="{{asset('images/front_end/cause-1.jpg')}}" alt="">
                         </figure>
 
                         <div class="cause-content-wrap">
                             <header class="entry-header d-flex flex-wrap align-items-center">
-                                <h3 class="entry-title w-100 m-0"><a href="#">Fundraiser for Kids</a></h3>
+                                <h3 class="entry-title w-100 m-0"><a href="#">Agriculture</a></h3>
 
                                 <div class="posted-date">
-                                    <a href="#">Aug 25, 2018 </a>
+                                    <a href="#">Sept 25, 2019 </a>
                                 </div><!-- .posted-date -->
 
                                 <div class="cats-links">
-                                    <a href="#">Ball Room New York</a>
+                                    <a href="#">Sindo</a>
                                 </div><!-- .cats-links -->
                             </header><!-- .entry-header -->
 
                             <div class="entry-content">
-                                <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris. Lorem ipsum dolor sit amet, consectetur.</p>
+                                <p class="m-0">Agriculture is the main source of our revenue. We would thus like to provide modern farming tools and also training on how to protect the environment. We would greatly appreciate your support in acquiring the necessary materials like tractors, farming knowledge etc</p>
                             </div><!-- .entry-content -->
 
                             <div class="entry-footer mt-5">
@@ -346,16 +292,16 @@
                                     <span class="tip"></span>
                                 </div><!-- .tipWrap -->
 
-                                <span class="fill" data-percentage="83"></span>
+                                <span class="fill" data-percentage="3"></span>
                             </div><!-- .fund-raised-bar -->
 
                             <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                 <div class="fund-raised-total mt-4">
-                                    Raised: $56 880
+                                    Raised: 
                                 </div><!-- .fund-raised-total -->
 
                                 <div class="fund-raised-goal mt-4">
-                                    Goal: $70 000
+                                    Goal: 
                                 </div><!-- .fund-raised-goal -->
                             </div><!-- .fund-raised-details -->
                         </div><!-- .fund-raised -->
@@ -376,7 +322,6 @@
                 </div><!-- .section-heading -->
             </div><!-- .col -->
         </div><!-- .row -->
-
         <div class="row">
             <div class="col-12">
                 <div class="swiper-container causes-slider">
@@ -397,7 +342,7 @@
                                     </header><!-- .entry-header -->
 
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">Agriculture is the main source of our revenue. We would thus like to provide modern farming tools and training on how to protect the environment.</p>
                                     </div><!-- .entry-content -->
 
                                     <div class="fund-raised w-100">
@@ -406,96 +351,82 @@
                                                 <span class="tip"></span>
                                             </div><!-- .tipWrap -->
 
-                                            <span class="fill" data-percentage="83"></span>
+                                            <span class="fill" data-percentage="3"></span>
                                         </div><!-- .fund-raised-bar -->
-
                                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                             <div class="fund-raised-total mt-4">
-                                                Done: 56 880
+                                                Done: 
                                             </div><!-- .fund-raised-total -->
 
                                             <div class="fund-raised-goal mt-4">
-                                                Goal: 70 000
+                                                Goal: 
                                             </div><!-- .fund-raised-goal -->
                                         </div><!-- .fund-raised-details -->
                                     </div><!-- .fund-raised -->
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
-
                         <div class="swiper-slide">
                             <div class="cause-wrap">
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-2.jpg')}}" alt="">
-
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                         <a href="#" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
-
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
                                         <h3 class="entry-title w-100 m-0"><a href="#">Health</a></h3>
                                     </header><!-- .entry-header -->
-
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">We seek to provide a Non profitable health system in partnership with the government and the health service providers.This will ensure that patients within the CBO get treatment without being charged</p>
                                     </div><!-- .entry-content -->
-
                                     <div class="fund-raised w-100">
                                         <div class="fund-raised-bar-2 barfiller">
                                             <div class="tipWrap">
                                                 <span class="tip"></span>
                                             </div><!-- .tipWrap -->
 
-                                            <span class="fill" data-percentage="70"></span>
+                                            <span class="fill" data-percentage="7"></span>
                                         </div><!-- .fund-raised-bar -->
-
                                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                             <div class="fund-raised-total mt-4">
-
+                                                Done: 
                                             </div><!-- .fund-raised-total -->
 
                                             <div class="fund-raised-goal mt-4">
-
+                                                Goal: 
                                             </div><!-- .fund-raised-goal -->
                                         </div><!-- .fund-raised-details -->
                                     </div><!-- .fund-raised -->
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
-
                         <div class="swiper-slide">
                             <div class="cause-wrap">
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-3.jpg')}}" alt="">
-
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                         <a href="#" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
-
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
                                         <h3 class="entry-title w-100 m-0"><a href="#">Environment</a></h3>
                                     </header><!-- .entry-header -->
-
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">A healthy environment is a productive environment. We therefore provide training to our members on how to manage waste. We also -...</p>
                                     </div><!-- .entry-content -->
-
                                     <div class="fund-raised w-100">
                                         <div class="fund-raised-bar-3 barfiller">
                                             <div class="tipWrap">
                                                 <span class="tip"></span>
                                             </div><!-- .tipWrap -->
-
-                                            <span class="fill" data-percentage="83"></span>
+                                            <span class="fill" data-percentage="8"></span>
                                         </div><!-- .fund-raised-bar -->
-
                                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                             <div class="fund-raised-total mt-4">
-                                                Planted: 56 880
+                                                Trees Planted: 880
                                             </div><!-- .fund-raised-total -->
 
                                             <div class="fund-raised-goal mt-4">
@@ -506,38 +437,33 @@
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
-
                         <div class="swiper-slide">
                             <div class="cause-wrap">
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-4.jpg')}}" alt="">
-
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                         <a href="#" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
-
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
                                         <h3 class="entry-title w-100 m-0"><a href="#">Empowerment</a></h3>
                                     </header><!-- .entry-header -->
-
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">We provide empowerment to different people in our community through offering special training to marginalized groups, providing youths with education covers,entrepreneurship training and talent promotion ...</p>
                                     </div><!-- .entry-content -->
-
                                     <div class="fund-raised w-100">
                                         <div class="fund-raised-bar-4 barfiller">
                                             <div class="tipWrap">
                                                 <span class="tip"></span>
                                             </div><!-- .tipWrap -->
 
-                                            <span class="fill" data-percentage="83"></span>
+                                            <span class="fill" data-percentage="8"></span>
                                         </div><!-- .fund-raised-bar -->
 
                                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                             <div class="fund-raised-total mt-4">
-                                                Empowered: 56 880
+                                                Empowered: 56
                                             </div><!-- .fund-raised-total -->
 
                                             <div class="fund-raised-goal mt-4">
@@ -548,39 +474,31 @@
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
-
                         <div class="swiper-slide">
                             <div class="cause-wrap">
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-5.jpg')}}" alt="">
-
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
                                         <a href="#" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
-
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
                                         <h3 class="entry-title w-100 m-0"><a href="#">Catering</a></h3>
                                     </header><!-- .entry-header -->
-
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">We provide tents, chairs, cooking utensils complete public address and lighting systems as a means of empowering our people</p>
                                     </div><!-- .entry-content -->
-
                                     <div class="fund-raised w-100">
                                         <div class="fund-raised-bar-5 barfiller">
                                             <div class="tipWrap">
                                                 <span class="tip"></span>
                                             </div><!-- .tipWrap -->
-
                                             <span class="fill" data-percentage="70"></span>
                                         </div><!-- .fund-raised-bar -->
-
                                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                                             <div class="fund-raised-total mt-4">
                                             </div><!-- .fund-raised-total -->
-
                                             <div class="fund-raised-goal mt-4">
                                             </div><!-- .fund-raised-goal -->
                                         </div><!-- .fund-raised-details -->
@@ -589,7 +507,6 @@
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
                     </div><!-- .swiper-wrapper -->
-
                 </div><!-- .swiper-container -->
 
                 <!-- Add Arrows -->
@@ -613,7 +530,7 @@
                 <div class="section-heading">
                     <h2 class="entry-title">We love to help everyone who has a problem in the world. We have just started with our community.</h2>
 
-                    <p class="mt-5">Dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris quis aliquam. Lorem ipsum dolor sit amet.</p>
+                    <p class="mt-5">We believe that everyone deserves a helping hand in achieving their goals and that is what we are here for. Joining us and supporting us through your donations will go a long way into touching other people's lives </p>
                 </div><!-- .section-heading -->
             </div><!-- .col -->
 
@@ -626,11 +543,11 @@
                             </div>
 
                             <div class="d-flex justify-content-center align-items-baseline">
-                                <div class="start-counter" data-to="120" data-speed="2000"></div>
+                                <div class="start-counter" data-to="10" data-speed="2000"></div>
                                 <div class="counter-k">K</div>
                             </div>
 
-                            <h3 class="entry-title">Children helped</h3><!-- entry-title -->
+                            <h3 class="entry-title">Lives touched</h3><!-- entry-title -->
                         </div><!-- counter-box -->
                     </div><!-- .col -->
 
@@ -644,7 +561,7 @@
                                 <div class="start-counter" data-to="79" data-speed="2000"></div>
                             </div>
 
-                            <h3 class="entry-title">Water wells</h3><!-- entry-title -->
+                            <h3 class="entry-title">Help granted</h3><!-- entry-title -->
                         </div><!-- counter-box -->
                     </div><!-- .col -->
 
@@ -655,7 +572,7 @@
                             </div>
 
                             <div class="d-flex justify-content-center align-items-baseline">
-                                <div class="start-counter" data-to="253" data-speed="2000"></div>
+                                <div class="start-counter" data-to="25" data-speed="2000"></div>
                             </div>
 
                             <h3 class="entry-title">Volunteers</h3><!-- entry-title -->

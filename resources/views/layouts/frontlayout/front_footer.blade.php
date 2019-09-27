@@ -5,7 +5,7 @@
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="foot-about">
                         <h2><a class="foot-logo" href="#"><img src="{{asset('images/front_end/logo.png')}}" alt=""></a></h2>
-                        <p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Mauris temp us vestib ulum mauris.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.Lorem ipsum dolo.</p>
+                        <p>We are a community based organization established by the locals of mikiundu area with a vision of putting resources and skills together to better our community and beyond.</p>
                         <ul class="d-flex flex-wrap align-items-center">
                             <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
