@@ -20,7 +20,7 @@
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
                                 <!--a href="#" class="btn gradient-bg mr-2">Donate Now</a-->
-                                <a href="#" class="btn orange-border">Read More</a>
+                                <a href="{{url('/about')}}" class="btn orange-border">Read More</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -44,8 +44,8 @@
                             </div><!-- .entry-content -->
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <!--a href="#" class="btn gradient-bg mr-2">Donate Now</a-->
-                                <a href="#" class="btn orange-border">Read More</a>
+                                <!--a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Donate Now</a-->
+                                <a href="{{url('/about')}}" class="btn orange-border">Read More</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -70,7 +70,7 @@
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
                                 <!--a href="#" class="btn gradient-bg mr-2">Donate Now</a-->
-                                <a href="#" class="btn orange-border">Read More</a>
+                                <a href="{{url('/about')}}" class="btn orange-border">Read More</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -93,8 +93,8 @@
                             </div><!-- .entry-content -->
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <!--a href="#" class="btn gradient-bg mr-2">Donate Now</a-->
-                                <a href="#" class="btn orange-border">Read More</a>
+                                <!--a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Donate Now</a-->
+                                <a href="{{url('/about')}}" class="btn orange-border">Read More</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -116,8 +116,8 @@
                             </div><!-- .entry-content -->
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <!--a href="#" class="btn gradient-bg mr-2">Donate Now</a-->
-                                <a href="#" class="btn orange-border">Read More</a>
+                                <!--a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Donate Now</a-->
+                                <a href="{{url('/about')}}" class="btn orange-border">Read More</a>
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -202,7 +202,7 @@
                     </div><!-- .entry-content -->
 
                     <div class="entry-footer mt-5">
-                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                     </div><!-- .entry-footer -->
                 </div><!-- .welcome-content -->
             </div><!-- .col -->
@@ -246,7 +246,7 @@
                             </div><!-- .entry-content -->
 
                             <div class="entry-footer">
-                                <a href="#">Read More</a>
+                                <a href="{{url('/about')}}">Read More</a>
                             </div><!-- .entry-footer -->
                         </div><!-- .event-content-wrap -->
                     </div><!-- .event-wrap -->
@@ -278,7 +278,7 @@
                             </header><!-- .entry-header -->
 
                             <div class="entry-content">
-                                <p class="m-0">Agriculture is the main source of our revenue. We would thus like to provide modern farming tools and also training on how to protect the environment. We would greatly appreciate your support in acquiring the necessary materials like tractors, farming knowledge etc</p>
+                                <p class="m-0">Agriculture is the main source of our revenue. We would thus like to provide modern farming tools and training on how to protect the environment. We would greatly appreciate your support in acquiring the necessary materials like tractors, farming knowledge etc</p>
                             </div><!-- .entry-content -->
 
                             <div class="entry-footer mt-5">
@@ -332,7 +332,7 @@
                                     <img src="{{asset('images/front_end/cause-1.jpg')}}" alt="">
 
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
-                                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
 
@@ -371,7 +371,7 @@
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-2.jpg')}}" alt="">
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
-                                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
                                 <div class="cause-content-wrap">
@@ -407,7 +407,7 @@
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-3.jpg')}}" alt="">
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
-                                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
                                 <div class="cause-content-wrap">
@@ -442,7 +442,7 @@
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-4.jpg')}}" alt="">
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
-                                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
                                 <div class="cause-content-wrap">
@@ -479,7 +479,7 @@
                                 <figure class="m-0">
                                     <img src="{{asset('images/front_end/cause-5.jpg')}}" alt="">
                                     <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
-                                        <a href="#" class="btn gradient-bg mr-2">Read More</a>
+                                        <a href="{{url('/about')}}" class="btn gradient-bg mr-2">Read More</a>
                                     </div><!-- .figure-overlay -->
                                 </figure>
                                 <div class="cause-content-wrap">
