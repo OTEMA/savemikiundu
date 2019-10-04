@@ -18,7 +18,7 @@
                         <h2 class="entry-title">Welcome to Mikiundu CBO</h2>
                     </header><!-- .entry-header -->
                     <div class="entry-content mt-5">
-                        <p>We are a community based organization established by the locals of mikiundu area with a vision of putting resources and skills together to better our community and beyond.
+                        <p>We are a community based organization established by the locals of Mikiundu area with a vision of putting resources and skills together to better our community and beyond.
                             we currently offer different services to our members in various areas like:
                         </p>
                         <ul>
@@ -61,7 +61,7 @@
                                     <li>Marginalized Groups</li>
                                     <li>Youths</li>
                                 </ol>
-                                <p>We provide, training, education covers and also provide subsidiced basic needs</p>
+                                <p>We provide, training, education covers and also provide subsidized basic needs</p>
                             </li>
                             <li><h2>Catering</h2>
                                 <p>We provide tents, chairs, cooking utensils, complete public address system and lighting system to enable trainings and community sensitization</p></li>
