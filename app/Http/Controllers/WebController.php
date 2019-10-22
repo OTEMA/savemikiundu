@@ -11,6 +11,9 @@ class WebController extends Controller {
     public function about() {
         return view('front.about');
     }
+    public function getCause(){
+        return view('front.cause');
+    }
 
     public function contact(Request $request) {
         if ($request->isMethod('post')) {
