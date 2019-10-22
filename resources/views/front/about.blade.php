@@ -65,7 +65,8 @@
                             </li>
                             <li><h2>Catering</h2>
                                 <p>We provide tents, chairs, cooking utensils, complete public address system and lighting system to enable trainings and community sensitization</p></li>
-                        </ul>       
+                        </ul>  
+                        
                     </div><!-- .entry-content -->
                 </div><!-- .welcome-content -->
                 
