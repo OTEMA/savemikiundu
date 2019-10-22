@@ -23,7 +23,7 @@
         <!-- themify-icons CSS -->
         <link rel="stylesheet" href="{{asset('css/front_end/themify-icons.css')}}">
         <!-- Swiper CSS -->
-        <link rel="stylesheet" href="{{asset('css/front_end/swiper.min.css')}}">
+        <link rel="stylesheet" href="{{asset('css/front_end/swiper.css')}}">
         <!-- Styles -->
         <link rel="stylesheet" href="{{asset('css/front_end/style.css')}}">
     </head>
@@ -33,7 +33,7 @@
         @include('layouts.frontlayout.front_footer')
         <script type='text/javascript' src='{{asset('js/front_end/jquery.js')}}'></script>
         <script type='text/javascript' src='{{asset('js/front_end/jquery.collapsible.min.js')}}'></script>
-        <script type='text/javascript' src='{{asset('js/front_end/swiper.min.js')}}'></script>
+        <script type='text/javascript' src='{{asset('js/front_end/swiper.js')}}'></script>
         <script type='text/javascript' src='{{asset('js/front_end/jquery.countdown.min.js')}}'></script>
         <script type='text/javascript' src='{{asset('js/front_end/circle-progress.min.js')}}'></script>
         <script type='text/javascript' src='{{asset('js/front_end/jquery.countTo.min.js')}}'></script>
