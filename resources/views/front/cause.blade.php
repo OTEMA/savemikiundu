@@ -17,12 +17,12 @@
                     </figure>
                     <div class="cause-content-wrap">
                         <header class="entry-header d-flex flex-wrap align-items-center">
-                            <h3 class="entry-title w-100 m-0"><a href="#">Fundraiser for Kids</a></h3>
+                            <h3 class="entry-title w-100 m-0"><a href="#">Early Childhood education feeding program</a></h3>
                             <div class="posted-date">
-                                <a href="#">Coming soon</a>
+                                <a href="#">04-01-2020</a>
                             </div><!-- .posted-date -->
                             <div class="cats-links">
-                                <a href="#">Coming soon</a>
+                                <a href="#">Mikiundu</a>
                             </div><!-- .cats-links -->
                         </header><!-- .entry-header -->
                         <div class="entry-content">
