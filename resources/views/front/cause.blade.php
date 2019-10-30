@@ -17,7 +17,7 @@
                     </figure>
                     <div class="cause-content-wrap">
                         <header class="entry-header d-flex flex-wrap align-items-center">
-                            <h3 class="entry-title w-100 m-0"><a href="#">Early Childhood education feeding program</a></h3>
+                            <h3 class="entry-title w-100 m-0"><a href="#">E.C.D feeding program</a></h3>
                             <div class="posted-date">
                                 <a href="#">04-01-2020</a>
                             </div><!-- .posted-date -->
@@ -26,16 +26,16 @@
                             </div><!-- .cats-links -->
                         </header><!-- .entry-header -->
                         <div class="entry-content">
-                            <p class="m-0">Coming soon.</p>
+                            <p class="m-0">We'll be launching our ECD school feeding program to ensure that our children stay in school. We'll greatly appreciate your contribution towards the program's success.</p>
                         </div><!-- .entry-content -->
                         <div class="entry-footer mt-5">
-                            <a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Subscribe </a>
+                            <a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Donate </a>
                         </div><!-- .entry-footer -->
                     </div><!-- .cause-content-wrap -->
                     <div class="fund-raised w-100">
                         <div class="featured-fund-raised-bar barfiller">
                             <div class="tipWrap">
-                                <span class="tip">Coming soon</span>
+                                <span class="tip">Donate</span>
                             </div><!-- .tipWrap -->
                             <span class="fill" data-percentage="3"></span>
                         </div><!-- .fund-raised-bar -->
@@ -44,7 +44,7 @@
                                 Raised: 
                             </div><!-- .fund-raised-total -->
                             <div class="fund-raised-goal mt-4">
-                                Goal: 
+                                Goal: KSH70,000
                             </div><!-- .fund-raised-goal -->
                         </div><!-- .fund-raised-details -->
                     </div><!-- .fund-raised -->

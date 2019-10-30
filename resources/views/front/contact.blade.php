@@ -26,9 +26,9 @@
                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
                     <ul class="contact-info p-0">
-                        <li><i class="fa fa-phone"></i><span>+45 677 8993000 223</span></li>
-                        <li><i class="fa fa-envelope"></i><span>office@template.com</span></li>
-                        <li><i class="fa fa-map-marker"></i><span>Main Str. no 45-46, b3, 56832, Los Angeles, CA</span></li>
+                        <li><i class="fa fa-phone"></i><span>+254 715 509 377 / +254 710 197 271 / +254 723 280 882</span></li>
+                        <li><i class="fa fa-envelope"></i><span>info@savemikiundu.org</span></li>
+                        <li><i class="fa fa-map-marker"></i><span>Roo Bay sindo, P.O. Box 36-40308 Sindo Homabay - Kenya</span></li>
                     </ul>
                 </div>
             </div><!-- .col -->
@@ -43,8 +43,8 @@
                 </form><!-- .contact-form -->
             </div><!-- .col -->
             <div class="col-12">
-                <div class="contact-gmap">
-                    <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=usa&key=AIzaSyC2LvnNLzWxHgFm_XfpFG9wHUuyEj6rXSs" allowfullscreen></iframe>
+                <div class="contact-gmap embed-responsive embed-responsive-16by9">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d180549.0079888355!2d34.02755961181332!3d-0.5895339722831362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19d4de31848cacdf%3A0xc09aa853482ca3d2!2sSindo!5e0!3m2!1sen!2ske!4v1572364504043!5m2!1sen!2ske" class="embed-responsive-item" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
         </div><!-- .row -->
