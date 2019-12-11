@@ -50,6 +50,7 @@
                     </div><!-- .fund-raised -->
                 </div><!-- .cause-wrap -->
             </div><!-- .col -->
+            <!--
             <div class="col-12 col-lg-6">
                 <div class="cause-wrap d-flex flex-wrap justify-content-between">
                     <figure class="m-0">
@@ -61,34 +62,47 @@
                             <div class="posted-date">
                                 <a href="#">coming soon </a>
                             </div><!-- .posted-date -->
+            <!--
                             <div class="cats-links">
                                 <a href="#">coming soon</a>
                             </div><!-- .cats-links -->
+            <!--
                         </header><!-- .entry-header -->
+            <!--
                         <div class="entry-content">
                             <p class="m-0">Coming soon.</p>
                         </div><!-- .entry-content -->
+            <!--
                         <div class="entry-footer mt-5">
                             <a href="{{url('/contact')}}" class="btn gradient-bg mr-2">Subscribe</a>
                         </div><!-- .entry-footer -->
+            <!--
                     </div><!-- .cause-content-wrap -->
+            <!--
                     <div class="fund-raised w-100">
                         <div class="featured-fund-raised-bar barfiller">
                             <div class="tipWrap">
                                 <span class="tip">Coming soon</span>
                             </div><!-- .tipWrap -->
+            <!--
                             <span class="fill" data-percentage="3"></span>
                         </div><!-- .fund-raised-bar -->
+            <!--
                         <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
                             <div class="fund-raised-total mt-4">
                                 Raised: 
                             </div><!-- .fund-raised-total -->
+            <!--
                             <div class="fund-raised-goal mt-4">
                                 Goal: 
                             </div><!-- .fund-raised-goal -->
+            <!--
                         </div><!-- .fund-raised-details -->
+            <!--
                     </div><!-- .fund-raised -->
+            <!--
                 </div><!-- .cause-wrap -->
+            <!--
             </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
